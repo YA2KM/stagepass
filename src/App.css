@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+@font-face {
+    font-family: '8seg';
+    src: url(font/DSEG7Modern-Bold.woff2) format('woff');
+}
+
+.eight-seg {
+    font-family: '8seg', serif;
+}
+
+.timecode {
+    user-select: none;
+}
